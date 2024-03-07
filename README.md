@@ -1,6 +1,6 @@
 # Library-API Project 📚
 
-This project is a simple Spring Boot application that provides a RESTful API for managing books. It allows users to perform CRUD (Create, Read, Update, Delete) operations on books using the API. It adding new books, updating existing ones, searching for books, and deleting books.
+This project is a simple Spring Boot application that provides a RESTful API for managing books. It allows users to perform CRUD (Create, Read, Update, Delete) operations on books using the API. It involves adding new books, updating existing ones, searching for books, and deleting books.
 <br>
 <br>
 
